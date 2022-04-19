@@ -3,7 +3,7 @@
 # Hi, I'm Renan Martins!
 <div >
   <a href="https://github.com/renanpontez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanpontez&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanpontez&show_icons=true&theme=dark&hide=stars,issues&count_private=true"/>
 </div>
 
 
