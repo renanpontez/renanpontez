@@ -1,16 +1,16 @@
 
 
 # Hi, I'm Renan Martins!
-<div >
+<!--<div >
   <a href="https://github.com/renanpontez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanpontez&show_icons=true&theme=dark&hide=stars,issues&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanpontez&show_icons=true&theme=dark&hide=stars,issues"/>
 </div>
-
+-->
 
 ### About me
 - 🎓 I work creating digital products for the past 7 years mainly as Front-End Developer;
-- 💻 I’m currently working mainly with JavaScript, Node and React;
-- 💪🏽 I consider myself good at: team working, problem solving, fast learning and transparency;
+- 💻 I’m currently working mainly with React (Next, Typescript) and Express;
+- 💪🏽 I also lead a team of 3 at Agility Digital Creative;
 
 
 ### My Skills and Experiences
