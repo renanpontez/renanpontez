@@ -10,7 +10,7 @@
 ### About me
 - 🎓 I work creating digital products for the past 7 years mainly as Front-End Developer;
 - 💻 I’m currently working mainly with React (Next, Typescript) and Express;
-- 💪🏽 I also lead a team of 3 at Agility Digital Creative;
+- 💪🏽 I'm also Team Leader & PM of small team at Agility Digital Creative;
 
 
 ### My Skills and Experiences
