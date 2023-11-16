@@ -8,8 +8,8 @@
 -->
 
 ### About me
-- 🎓 I work creating digital products for the past 7 years mainly as Front-End Developer;
-- 💻 I’m currently working mainly with React (Next, Typescript) and Express;
+- 🎓 I work creating digital products for the past 11 years mainly as Front-End Developer;
+- 💻 I’m currently working with Next, Express and Typescript;
 - 💪🏽 I'm also Team Leader & PM of small team at Agility Digital Creative;
 
 
