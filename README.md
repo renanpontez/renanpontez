@@ -8,9 +8,9 @@
 -->
 
 ### About me
-- 🎓 I work creating digital products for the past 11 years mainly as Front-End Developer;
-- 💻 I’m currently working with Next, Express and Typescript;
-- 💪🏽 I'm also Team Leader & PM of small team at Agility Digital Creative;
+- 🎓 I work creating digital products for the past 12 years;
+- 💻 Currently working with Next.js, Typescript, Express.js;
+- 💪🏽 Part-Time Team Leader & PM of small team at Agility Digital Creative;
 
 
 ### My Skills and Experiences
@@ -22,8 +22,6 @@
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/typescript/typescript-plain.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original.svg"/>
-</div>
 
 ### Contact-me at
   <div>
